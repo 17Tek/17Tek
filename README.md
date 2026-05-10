@@ -1,7 +1,7 @@
 # Hey, I'm Hamdi 👋
 
 CS Student at Farmingdale State College — focused on **backend development** and **cybersecurity**.  
-I build real projects, break things intentionally, and document what I learn.
+I am ambitious and love learning about new technologies to use.
 
 ---
 
