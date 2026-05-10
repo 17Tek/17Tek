@@ -1,6 +1,6 @@
 # Hi I'm Hamdi
 
-"People have thrown dirt on my name, people have given me flowers, it's all just a garden to me."
+"If you know the way broadly, you will see it in everything"
 
 CS Student at Farmingdale State College — focused on **backend development** and **cybersecurity**.  
 Learning and ambitious to develope new skills and use new technologies.
