@@ -1,9 +1,8 @@
-# Hi I'm Hamdi
+# Hey, I'm Hamdi 👋
 
-"If you know the way broadly, you will see it in everything"
+> *"If you know the way broadly, you will see it in everything"*
 
-CS Student at Farmingdale State College — focused on **backend development** and **cybersecurity**.  
-Learning and ambitious to develope new skills and use new technologies.
+CS Student at Farmingdale State College — focused on **backend development** and **cybersecurity**.
 
 ---
 
@@ -23,8 +22,8 @@ Learning and ambitious to develope new skills and use new technologies.
 ## Projects
 
 ### [ExoPlanet Visualizer](https://github.com/17Tek/Exoplanet-Visualizer)
-Exoplanet analytical dashboard, view planets and apply filters to find specific types, includes a link to the NASA site. Local database and data download required
-`Spring Boot` `PostgreSQL` `JavaFX` 
+Analytical dashboard for exploring NASA exoplanet data — filter by planet type, size, and habitability with a direct link to the NASA archive.
+`Spring Boot` `PostgreSQL` `JavaFX`
 
 ### [GoldenGoose](https://github.com/17Tek/GoldenGoose)
 iOS minigames app with a live backend. Collaborating with a partner on iOS builds and App Store deployment.  
