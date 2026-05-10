@@ -19,9 +19,9 @@ I am ambitious and love learning about new technologies to use.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### [TekMessage](https://github.com/17Tek/TekMessage)
+### [ExoPlanet Visualizer](https://github.com/17Tek/Exoplanet-Visualizer)
 End-to-end encrypted P2P messaging app built from scratch.  
 `Spring Boot` `WebSockets` `Double Ratchet Algorithm` `PostgreSQL` `React` `Docker`
 
