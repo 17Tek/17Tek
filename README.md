@@ -2,7 +2,7 @@
 
 > *"If you know the way broadly, you will see it in everything"*
 
-CS Student at Farmingdale State College — focused on **backend development** and **cybersecurity**.
+CS Student at Farmingdale State College focused on **backend development** and **cybersecurity**.
 
 ---
 
@@ -22,7 +22,7 @@ CS Student at Farmingdale State College — focused on **backend development** a
 ## Projects
 
 ### [ExoPlanet Visualizer](https://github.com/17Tek/Exoplanet-Visualizer)
-Analytical dashboard for exploring NASA exoplanet data — filter by planet type, size, and habitability with a direct link to the NASA archive.
+Analytical dashboard for exploring NASA exoplanet data filter by planet type, size, and habitability with a direct link to the NASA archive.
 `Spring Boot` `PostgreSQL` `JavaFX`
 
 ### [GoldenGoose](https://github.com/17Tek/GoldenGoose)
