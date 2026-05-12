@@ -1,5 +1,3 @@
-# Hey, I'm Hamdi 👋
-
 > *"If you know the way broadly, you will see it in all things"*
 
 CS Student at Farmingdale State College focused on **backend development** and **cybersecurity**.
