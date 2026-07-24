@@ -23,10 +23,6 @@ CS Student at Farmingdale State College focused on **backend development** and *
 Analytical dashboard for exploring NASA exoplanet data filter by planet type, size, and habitability with a direct link to the NASA archive.
 `Spring Boot` `PostgreSQL` `JavaFX`
 
-### [GoldenGoose](https://github.com/17Tek/GoldenGoose)
-iOS minigames app with a live backend. Collaborating with a partner on iOS builds and App Store deployment.  
-`Unity` `C#` `Spring Boot` `Supabase`
-
 ### [CodingHourLogger](https://github.com/17Tek/coding-hour-logger)
 REST API for tracking daily coding sessions. Built to learn Spring Boot architecture end-to-end.  
 `Spring Boot` `PostgreSQL` `REST API` `JPA`
