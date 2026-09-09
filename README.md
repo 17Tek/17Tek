@@ -31,6 +31,18 @@ REST API for tracking daily coding sessions. Built to learn Spring Boot architec
 Deployed T-Pot on Debian 11 in AWS Tokyo region. Observed real-world attacks within minutes — SSH brute force, port scans, exploit attempts.  
 `AWS EC2` `T-Pot` `Debian` `Threat Intelligence`
 
+### Timer
+Lightweight timer utility with configurable intervals and simple logging for sessions. Built as a small web app useful for productivity and testing.  
+`JavaScript` `HTML/CSS`
+
+### Star Field
+Procedurally-generated star-field visualizer for dynamic backgrounds and demos. Implemented with adjustable density, parallax layers, and simple animation controls—ideal for game backgrounds and visual experimentation.  
+`Unity` `C#`
+
+### Planet Simulator Game
+Physics-based planet simulator exploring gravity, orbits, and collisions. Includes adjustable parameters for mass, velocity, and visualization controls; useful for learning orbital mechanics and prototyping game mechanics.  
+`Unity` `C#`
+
 ---
 
 ## 📌 Currently
