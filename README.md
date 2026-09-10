@@ -1,52 +1,49 @@
-> *"If you know the way broadly, you will see it in all things"*
+> *"If you know the way broadly, you will see it in all things"
 
-CS Student at Farmingdale State College focused on **backend development** and **cybersecurity**.
+# Hamdi Tekci — Backend Developer & Cybersecurity Student
+
+Computer Science student at Farmingdale State College focused on backend development, distributed systems, and applied cybersecurity.
 
 ---
 
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### [ExoPlanet Visualizer](https://github.com/17Tek/Exoplanet-Visualizer)
-Analytical dashboard for exploring NASA exoplanet data filter by planet type, size, and habitability with a direct link to the NASA archive.
-`Spring Boot` `PostgreSQL` `JavaFX`
+- [ExoPlanet Visualizer](https://github.com/17Tek/Exoplanet-Visualizer) — Analytical dashboard for exploring NASA exoplanet data. Filter by planet type, size, and habitability and jump to the NASA archive for raw data. Built with Spring Boot, PostgreSQL, and JavaFX. `Spring Boot` `PostgreSQL` `JavaFX`
 
-### [CodingHourLogger](https://github.com/17Tek/coding-hour-logger)
-REST API for tracking daily coding sessions. Built to learn Spring Boot architecture end-to-end.  
-`Spring Boot` `PostgreSQL` `REST API` `JPA`
+- [Coding Hour Logger](https://github.com/17Tek/coding-hour-logger) — REST API for tracking daily coding sessions. A compact Spring Boot app demonstrating REST design, JPA, and persistence patterns. `Spring Boot` `PostgreSQL` `REST API` `JPA`
 
-### AWS EC2 Honeypot
-Deployed T-Pot on Debian 11 in AWS Tokyo region. Observed real-world attacks within minutes — SSH brute force, port scans, exploit attempts.  
-`AWS EC2` `T-Pot` `Debian` `Threat Intelligence`
+- [starfield-timer](https://github.com/17Tek/starfield-timer) — A calm starfield timer for the terminal (timer, stopwatch, and tracker). Single-file, stdlib-only Python. `Python` `CLI` `Timer`
 
-### Timer
-Lightweight timer utility with configurable intervals and simple logging for sessions. Built as a small web app useful for productivity and testing.  
-`JavaScript` `HTML/CSS`
+- [leetcanvas](https://github.com/17Tek/leetcanvas) — Transparent floating drawing canvas for Hyprland built with Quickshell. `QML` `Linux` `Wayland`
 
-### Star Field
-Procedurally-generated star-field visualizer for dynamic backgrounds and demos. Implemented with adjustable density, parallax layers, and simple animation controls—ideal for game backgrounds and visual experimentation.  
-`Unity` `C#`
+- [xrpl4j](https://github.com/17Tek/xrpl4j) — Java implementation to interact with the XRP Ledger (fork/packaged). `Java`
 
-### Planet Simulator Game
-Physics-based planet simulator exploring gravity, orbits, and collisions. Includes adjustable parameters for mass, velocity, and visualization controls; useful for learning orbital mechanics and prototyping game mechanics.  
-`Unity` `C#`
+- AWS EC2 Honeypot — Deployed T-Pot on Debian 11 (AWS Tokyo). Observed inbound SSH brute force, port scans, and exploit attempts. `AWS EC2` `T-Pot` `Threat Intelligence` (notes and artifacts are not in a public repo)
+
+- Planet Simulator & Star Field (Unity) — Physics-based planet simulator and procedurally-generated star-field visualizer (Unity/C#). Projects in progress; links will be added when repos are published.
 
 ---
 
-## 📫 Reach Me
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdi-tekci-5a35a038b/)
 
-📧 hamditekci2@gmail.com
+Email: hamditekci2@gmail.com
+
+---
+
+If you'd like, I can also add short README snippets for each project (how to build/run, screenshots, and tech highlights) or group projects by tech (Java / Unity / Python).
