@@ -15,8 +15,14 @@ Computer Science student at Farmingdale State College focused on backend develop
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🧠 AI & Tools
+
+![Claude](https://img.shields.io/badge/Claude-Anthropic-blue?style=for-the-badge) — I use Anthropic Claude (Claude Code) for code generation and experimenting with AI-assisted development workflows. Let me know if you prefer GitHub Copilot, GPT, or other tools in project READMEs.
 
 ---
 
@@ -38,6 +44,14 @@ Computer Science student at Farmingdale State College focused on backend develop
 
 ---
 
+## 📜 Certifications
+
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-2bbc8a?style=for-the-badge)
+
+CompTIA Security+ — Certified. If you'd like, I can add a link to the certificate or digital badge (e.g., Credly link) and the year it was awarded.
+
+---
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdi-tekci-5a35a038b/)
@@ -46,4 +60,4 @@ Email: hamditekci2@gmail.com
 
 ---
 
-If you'd like, I can also add short README snippets for each project (how to build/run, screenshots, and tech highlights) or group projects by tech (Java / Unity / Python).
+If you'd like, I can also add short README snippets for each project (how to build/run, screenshots, and tech highlights), include your certificates with links to evidence, or group projects by tech (Java / Unity / Python).
