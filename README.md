@@ -34,13 +34,21 @@ Computer Science student at Farmingdale State College focused on backend develop
 
 - [starfield-timer](https://github.com/17Tek/starfield-timer) — A calm starfield timer for the terminal (timer, stopwatch, and tracker). Single-file, stdlib-only Python. `Python` `CLI` `Timer`
 
+  _Details: (to be added)_
+
 - [leetcanvas](https://github.com/17Tek/leetcanvas) — Transparent floating drawing canvas for Hyprland built with Quickshell. `QML` `Linux` `Wayland`
 
 - [xrpl4j](https://github.com/17Tek/xrpl4j) — Java implementation to interact with the XRP Ledger (fork/packaged). `Java`
 
 - AWS EC2 Honeypot — Deployed T-Pot on Debian 11 (AWS Tokyo). Observed inbound SSH brute force, port scans, and exploit attempts. `AWS EC2` `T-Pot` `Threat Intelligence` (notes and artifacts are not in a public repo)
 
-- Planet Simulator & Star Field (Unity) — Physics-based planet simulator and procedurally-generated star-field visualizer (Unity/C#). Projects in progress; links will be added when repos are published.
+- Star Field (Unity) — Procedurally-generated star-field visualizer for dynamic backgrounds and demos. Implemented with adjustable density, parallax layers, and simple animation controls—ideal for game backgrounds and visualization.
+
+  _Details: (to be added)_
+
+- Planet Simulator (Unity) — Physics-based planet simulator exploring gravity, orbits, and collisions. Includes adjustable parameters for mass, velocity, and visualization controls; useful for learning orbital mechanics and prototyping.
+
+  _Details: (to be added by author)_
 
 ---
 
