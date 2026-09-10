@@ -20,36 +20,19 @@ Computer Science student at Farmingdale State College focused on backend develop
 
 ---
 
-## 🧠 AI & Tools
-
-![Claude](https://img.shields.io/badge/Claude-Anthropic-blue?style=for-the-badge) — I use Anthropic Claude (Claude Code) for code generation and experimenting with AI-assisted development workflows. Let me know if you prefer GitHub Copilot, GPT, or other tools in project READMEs.
-
----
-
 ## 🚀 Projects
 
 - [ExoPlanet Visualizer](https://github.com/17Tek/Exoplanet-Visualizer) — Analytical dashboard for exploring NASA exoplanet data. Filter by planet type, size, and habitability and jump to the NASA archive for raw data. Built with Spring Boot, PostgreSQL, and JavaFX. `Spring Boot` `PostgreSQL` `JavaFX`
 
 - [Coding Hour Logger](https://github.com/17Tek/coding-hour-logger) — REST API for tracking daily coding sessions. A compact Spring Boot app demonstrating REST design, JPA, and persistence patterns. `Spring Boot` `PostgreSQL` `REST API` `JPA`
 
-- [starfield-timer](https://github.com/17Tek/starfield-timer) — A calm starfield timer for the terminal (timer, stopwatch, and tracker). Single-file, stdlib-only Python. `Python` `CLI` `Timer`
-
-  _Details: (to be added)_
+- [starfield-timer](https://github.com/17Tek/starfield-timer) — Transparent hyprland applicaton, functions include: Timer going up or down, from either 0 or a set time. Aesthetic Functions: I wanted a creative and different look than a simple looking count down, I included color changes and the two current themes of 1 (functions intersecting across the star field) and 2 (A gravity vortex pulling each particle to the center of the window) `Python` `CLI` `Timer`
 
 - [leetcanvas](https://github.com/17Tek/leetcanvas) — Transparent floating drawing canvas for Hyprland built with Quickshell. `QML` `Linux` `Wayland`
 
-- [xrpl4j](https://github.com/17Tek/xrpl4j) — Java implementation to interact with the XRP Ledger (fork/packaged). `Java`
-
 - AWS EC2 Honeypot — Deployed T-Pot on Debian 11 (AWS Tokyo). Observed inbound SSH brute force, port scans, and exploit attempts. `AWS EC2` `T-Pot` `Threat Intelligence` (notes and artifacts are not in a public repo)
 
-- Star Field (Unity) — Procedurally-generated star-field visualizer for dynamic backgrounds and demos. Implemented with adjustable density, parallax layers, and simple animation controls—ideal for game backgrounds and visualization.
-
-  _Details: (to be added)_
-
-- Planet Simulator (Unity) — Physics-based planet simulator exploring gravity, orbits, and collisions. Includes adjustable parameters for mass, velocity, and visualization controls; useful for learning orbital mechanics and prototyping.
-
-  _Details: (to be added by author)_
-
+- Planet Simulator — Planet simulation game, worked with a total of 5 developers to produce the art work, animations, database, and much more. I worked mostly on the authentication system utilizing Firebase to store and retrieve essential program data. 
 ---
 
 ## 📜 Certifications
