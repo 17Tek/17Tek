@@ -48,6 +48,3 @@ CompTIA Security+
 
 Email: hamditekci2@gmail.com
 
----
-
-If you'd like, I can also add short README snippets for each project (how to build/run, screenshots, and tech highlights), include your certificates with links to evidence, or group projects by tech (Java / Unity / Python).
