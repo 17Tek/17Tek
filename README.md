@@ -45,13 +45,6 @@ Physics-based planet simulator exploring gravity, orbits, and collisions. Includ
 
 ---
 
-## 📌 Currently
-
-- 📱 Shipping **GoldenGoose** — target launch June 2026
-- 🔨 Backend + security projects ongoing
-
----
-
 ## 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdi-tekci-5a35a038b/)
