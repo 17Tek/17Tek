@@ -39,8 +39,7 @@ Computer Science student at Farmingdale State College focused on backend develop
 
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-2bbc8a?style=for-the-badge)
 
-CompTIA Security+ — Certified. If you'd like, I can add a link to the certificate or digital badge (e.g., Credly link) and the year it was awarded.
-
+CompTIA Security+ 
 ---
 
 ## 📫 Contact
