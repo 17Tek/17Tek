@@ -1,4 +1,4 @@
-> *"If you know the way broadly, you will see it in all things"
+> "If you know the way broadly, you will see it in all things"
 
 # Hamdi Tekci — Backend Developer & Cybersecurity Student
 
